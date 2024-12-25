@@ -29,7 +29,7 @@
     "nodemailer": "^6.9.3",
     "supertest": "^6.3.3",
     "vhost": "^3.0.2",
-    "winston": "^2.4.0"
+    "winston": "^2.4.7"
   },
   "devDependencies": {
     "jest": "^29.6.2",
